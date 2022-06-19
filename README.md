@@ -1,3 +1,5 @@
+![alt text](./src/top.svg)
+
 <h1 align="center">Hi 👋, I'm Banula Lakwindu</h1>
 <h3 align="center">I'm a Student, Undergraduate, Developer & a Creative Designer.</h3>
 
