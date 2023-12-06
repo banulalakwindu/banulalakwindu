@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banulalakwindu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="banulalakwindu" /></a> </p>
 
 <h2 align="center">About Me</h2>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 - 🔭 I’m currently working on **my university projects**.
 - 🌱 I’m currently learning **Fullstack development**.
 - 👯 I’m looking to collaborate **with other content creators**.
@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **I love to play computer games and listen to music**.
 
 <h2 align="center">Connect with Me</h2>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <p align="center">
 <a href="https://behance.net/banulalakwindu" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" /></a>
 <a href="https://discord.gg/banulalakwindu" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
@@ -40,7 +40,7 @@
 </p>
 
 <h2 align="center">Languages and Tools</h2>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <p align="center">
   <a href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
 <a href="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
@@ -66,7 +66,7 @@
  </p>
 
 <h2 align="center">GitHub Stats</h2>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banulalakwindu&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=banulalakwindu&theme=ayu_mirage" height="180em" />
@@ -81,7 +81,7 @@
 </p>
 
 <h2 align="center">GitHub Contribution Snake 🐍</h2>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <p align="center">
   <img src="./src/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
