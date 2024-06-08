@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **my university projects**.
 - 🌱 I’m currently learning **Fullstack development**.
 - 👯 I’m looking to collaborate **with other content creators**.
-- 💬 Ask me about **Java, C++, HTML, CSS, ...**.
+- 💬 Ask me about **Java, PHP, HTML, CSS, JS, ...**.
 - 📫 How to reach me: **banulalakwindu10@gmail.com**.
 - ⚡ Fun fact: **I love to play computer games and listen to music**.
 
