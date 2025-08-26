@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/top.svg" alt="Banner" />
+  <img src="./src/top.png" alt="Banner" />
   
   <h1 align="center">Hi there, I'm Banula Lakwindu 👋</h1>
   
